@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Cantarell|Raleway&display=swap');
+
+/* 
+head {
+    background-color: coral;
+}
+    */
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    color: lightgoldenrodyellow;
+}
+
+body {
+
+
+
+    background: url(/nuit1.jpg) center center /cover no-repeat fixed;
+
+
+
+}
+
+p {
+    text-align: center;
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+    color: rgb(223, 115, 28)
+}
